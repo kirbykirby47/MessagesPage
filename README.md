@@ -6,4 +6,4 @@ To setup, make sure Node.js and MongoDB is installed.
 Starting Server: 
 1) Go to the server directory.
 2) type npm start
-3) The site should be working now
+3) The site should be sending and receiving messages now.
