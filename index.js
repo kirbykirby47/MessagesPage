@@ -15,7 +15,7 @@ app.use(express.json()); //add ability to parse incoming data as JSON
 //gives an initial response to the the client (in console) with a message when the website loads
 app.get('/', (req, res) => {
     res.json({
-        message: 'Josh smells very funny'
+        message: 'Working'
     });
 });
 
